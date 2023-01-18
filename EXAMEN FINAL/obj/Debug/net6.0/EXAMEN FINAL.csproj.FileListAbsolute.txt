@@ -1,0 +1,15 @@
+C:\Users\Josselyne\Desktop\EXAMEN FINAL\bin\Debug\net6.0\EXAMEN FINAL.exe
+C:\Users\Josselyne\Desktop\EXAMEN FINAL\bin\Debug\net6.0\EXAMEN FINAL.deps.json
+C:\Users\Josselyne\Desktop\EXAMEN FINAL\bin\Debug\net6.0\EXAMEN FINAL.runtimeconfig.json
+C:\Users\Josselyne\Desktop\EXAMEN FINAL\bin\Debug\net6.0\EXAMEN FINAL.dll
+C:\Users\Josselyne\Desktop\EXAMEN FINAL\bin\Debug\net6.0\EXAMEN FINAL.pdb
+C:\Users\Josselyne\Desktop\EXAMEN FINAL\obj\Debug\net6.0\EXAMEN FINAL.csproj.AssemblyReference.cache
+C:\Users\Josselyne\Desktop\EXAMEN FINAL\obj\Debug\net6.0\EXAMEN FINAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Josselyne\Desktop\EXAMEN FINAL\obj\Debug\net6.0\EXAMEN FINAL.AssemblyInfoInputs.cache
+C:\Users\Josselyne\Desktop\EXAMEN FINAL\obj\Debug\net6.0\EXAMEN FINAL.AssemblyInfo.cs
+C:\Users\Josselyne\Desktop\EXAMEN FINAL\obj\Debug\net6.0\EXAMEN FINAL.csproj.CoreCompileInputs.cache
+C:\Users\Josselyne\Desktop\EXAMEN FINAL\obj\Debug\net6.0\EXAMEN FINAL.dll
+C:\Users\Josselyne\Desktop\EXAMEN FINAL\obj\Debug\net6.0\refint\EXAMEN FINAL.dll
+C:\Users\Josselyne\Desktop\EXAMEN FINAL\obj\Debug\net6.0\EXAMEN FINAL.pdb
+C:\Users\Josselyne\Desktop\EXAMEN FINAL\obj\Debug\net6.0\EXAMEN FINAL.genruntimeconfig.cache
+C:\Users\Josselyne\Desktop\EXAMEN FINAL\obj\Debug\net6.0\ref\EXAMEN FINAL.dll
